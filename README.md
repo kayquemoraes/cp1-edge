@@ -34,7 +34,7 @@ A maior dificuldade do projeto foi descobrir o que era considerado um valor idea
 
 O grande passo para a solução deste desafio foi converter os bits que tinhamos em volts, sendo 0 bits o valor correspondente à 0 volts, e 1023 bits à 5 volts. Dessa forma ficou mais fácil de trabalhar, já que a essa altura a maior parte dos nossos problemas poderia ser resolvido com a lei de ohm.
 
-Pelos materias que encontramos provenientes de pesquisas sobre vinhos, a luminosidade em que o vinho deve ficar está relacionada diretamente com o a área do local em que o vinho ficará armazenado, e a quantidade de vinho. Porém, utilizamos um valor médio apresentado nestas pesquisas, sendo de 10 á 15 lux um valor ideal para a iluminação dos vinhos. A partir disso, utilizando condicionais da linguagem, conseguimos estabelecer regras para a funcionalidade do projeto.
+Pelos materias que encontramos provenientes de pesquisas sobre vinhos, a luminosidade em que o vinho deve ficar está relacionada diretamente com o a área do local em que o vinho ficará armazenado, e a quantidade de vinho. Porém, utilizamos um valor médio apresentado nestas pesquisas, sendo de 15 à 28 lux um valor ideal para a iluminação dos vinhos. A partir disso, utilizando condicionais da linguagem, conseguimos estabelecer regras para a funcionalidade do projeto.
 
 ___
    
@@ -67,8 +67,8 @@ Após a instalação do Arduíno IDE, você deve seguir os seguintes passos:
 2. Abra o código no Arduino IDE.
 3. Conecte os sensores e componentes de acordo com as instruções fornecidas no código.
 
-***Você também pode executar a simulação do projeto online através do link: https://www.tinkercad.com/things/5ttRFyFKiTt-amazing-leelo/editel?sharecode=u-Oat39EfLW7mQOlGHI1qVfx7jdkz9MVd6T6H6OYpOY***
+***Você também pode executar a simulação do projeto online através do link:*** http://www.tinkercad.com/things/5ttRFyFKiTt-amazing-leelo/editel?sharecode=u-Oat39EfLW7mQOlGHI1qVfx7jdkz9MVd6T6H6OYpOY
 ___
 
 ## Video Explicativo
-   - Coloque aqui o link para o seu video explicando como o projeto foi desenvolvido, quais as dificuldades encontradas e qual a solução adotada.
+Link do vídeo: https://drive.google.com/file/d/1KPav0jvqjvPXzoYha7IRNSWAIlgjo1dI/view?usp=share_link

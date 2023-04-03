@@ -44,7 +44,7 @@ void loop() {
   Serial.print(lux);
   
   // Condição para iluminação ideal  
-  if(lux >= 10 && lux <= 15){
+  if(lux >= 15 && lux <= 28){
     
     digitalWrite(LED_VERMELHO, 0);// desliga o LED vermelho
     digitalWrite(LED_AMARELO, 0); // desliga o LED amarelo
@@ -53,7 +53,7 @@ void loop() {
     Serial.println(" Status:OK");
   }
   // Condição para iluminação em níveis de alerta
-  else if ((lux > 15 && lux <=18) || (lux < 10 && lux >= 7)){
+  else if ((lux > 28 && lux <=34) || (lux < 15 && lux >= 9)){
     
     digitalWrite(LED_VERMELHO, 0);// desliga o LED vermelho
     digitalWrite(LED_VERDE, 0); // desliga o LED verde

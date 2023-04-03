@@ -34,7 +34,7 @@ A maior dificuldade do projeto foi descobrir o que era considerado um valor idea
 
 O grande passo para a solução deste desafio foi converter os bits que tinhamos em volts, sendo 0 bits o valor correspondente à 0 volts, e 1023 bits à 5 volts. Dessa forma ficou mais fácil de trabalhar, já que a essa altura a maior parte dos nossos problemas poderia ser resolvido com a lei de ohm.
 
-Pelos materias que encontramos provenientes de pesquisas sobre vinhos, a luminosidade em que o vinho deve ficar está relacionada diretamente com o a área do local em que o vinho ficará armazenado, e a quantidade de vinho. Porém, utilizamos um valor médio apresentado nestas pesquisas, sendo de 15 à 28 lux um valor ideal para a iluminação dos vinhos. A partir disso, utilizando condicionais da linguagem, conseguimos estabelecer regras para a funcionalidade do projeto.
+Pelos materias que encontramos provenientes de pesquisas sobre vinhos, a luminosidade em que o vinho deve ficar está relacionada diretamente com o a área do local em que o vinho ficará armazenado, e a quantidade de vinho. Porém, utilizamos um valor médio apresentado nestas pesquisas, sendo de 280 à 380 lux um valor ideal para a iluminação dos vinhos. A partir disso, utilizando condicionais da linguagem, conseguimos estabelecer regras para a funcionalidade do projeto.
 
 ___
    

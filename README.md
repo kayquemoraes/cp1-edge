@@ -67,7 +67,7 @@ Após a instalação do Arduíno IDE, você deve seguir os seguintes passos:
 2. Abra o código no Arduino IDE.
 3. Conecte os sensores e componentes de acordo com as instruções fornecidas no código.
 
-***Você também pode executar a simulação do projeto online através do link:*** http://www.tinkercad.com/things/5ttRFyFKiTt-amazing-leelo/editel?sharecode=u-Oat39EfLW7mQOlGHI1qVfx7jdkz9MVd6T6H6OYpOY
+***Você também pode executar a simulação do projeto online através do link:*** https://www.tinkercad.com/things/3cG0uZoqopW
 ___
 
 ## Video Explicativo
